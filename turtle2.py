@@ -1,0 +1,16 @@
+import turtle
+
+j=turtle.Turtle()
+j.color("yellow")
+j.shape("turtle")
+canvas=turtle.Screen()
+canvas.title("Julie")
+canvas.bgcolor("blue")
+j.forward(100)
+j.left(90)
+j.forward(100)
+j.left(90)
+j.forward(100)
+j.left(90)
+j.forward(100)
+j.left(90)
